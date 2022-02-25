@@ -5,6 +5,8 @@
 [![license](https://img.shields.io/badge/license-GPL-blue.svg)](./LICENSE)
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
 
+### [🇨🇳 zh](./README.md) &emsp; [🇺🇸](./README.en.md) en
+
 京东抢购助手
 
 1.缺货上架自动加购物车下单
