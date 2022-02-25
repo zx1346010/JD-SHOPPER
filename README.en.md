@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/badge/license-GPL-blue.svg)](./LICENSE)
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
 
-### [🇨🇳 zh](./README.md) &emsp; [🇺🇸](./README.en.md) en
+### [🇨🇳 zh](./README.md) &emsp; [🇺🇸 en](./README.en.md)
 
 Jingdong snapping assistant
 
