@@ -1,9 +1,12 @@
+
 # JD_SHOPPER <img src="./Docs/img/shopper.svg" width="50px">
 
 [![version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org/download/releases/3.4.0/)
 [![status](https://img.shields.io/badge/status-stable-green.svg)](https://github.com/tychxn/jd-assistant)
 [![license](https://img.shields.io/badge/license-GPL-blue.svg)](./LICENSE)
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
+
+### [🇨🇳 zh](./README.md) &emsp; [🇺🇸](./README.en.md) en
 
 Jingdong snapping assistant
 
@@ -216,5 +219,3 @@ python GUI/packing.py
 ##### Author-4 Open source project of https://github.com/tychxn/jd-assistant
 
 ##### Author-5 Open source project of https://gitee.com/iszhangk/jd_robot
-
-
